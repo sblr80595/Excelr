@@ -1,0 +1,5 @@
+fh=open("writefileexample.txt","a")
+fh.write("This is new line \n")
+fh.write("Added through append function \n")
+fh.write("Always close the file once the job is done. \n")
+fh.close()

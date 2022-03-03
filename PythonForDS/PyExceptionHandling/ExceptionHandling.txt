@@ -1,0 +1,3 @@
+opening the file to log error.
+User entered the number : t
+closing the file.
